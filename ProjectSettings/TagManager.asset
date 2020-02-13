@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FlapButton
+  - Background
+  - Ground
+  - Pipe
+  - PipeHolder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BGCollector
+  - Background
+  - Ground
+  - Player
+  - Pipe
+  - PipeCollector
+  - PipeHolder
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 804668357
+    locked: 0
+  - name: Ground
+    uniqueID: 2021222843
+    locked: 0
+  - name: Pipe
+    uniqueID: 2874515247
+    locked: 0
+  - name: Bird
+    uniqueID: 2743624939
+    locked: 0
+  - name: Canvas
+    uniqueID: 1439531169
+    locked: 0
+  - name: Foreground
+    uniqueID: 2912341923
+    locked: 0
